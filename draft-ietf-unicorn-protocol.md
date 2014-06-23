@@ -1,13 +1,13 @@
 ---
-title: STUN/TURN using PHP in Despair
-abbrev: STuPiD
-docname: draft-hartke-xmpp-stupid-latest
-date: 2009-07-05
-category: info
+title: Unicorn Protocol
+abbrev: Unicorns
+docname: draft-unicorn-protocol-latest
+date: 2014-06-23
+category: exp
 
 ipr: trust200902
 area: General
-workgroup: XMPP Working Group
+workgroup: Horsies
 keyword: Internet-Draft
 
 stand_alone: yes
@@ -15,21 +15,10 @@ pi: [toc, sortrefs, symrefs]
 
 author:
  -
-    ins: K. Hartke
-    name: Klaus Hartke
-    organization: Universität Bremen TZI
-    email: hartke@tzi.org
- -
-    ins: C. Bormann
-    name: Carsten Bormann
-    org: Universität Bremen TZI
-    street: Postfach 330440
-    city: Bremen
-    code: D-28359
-    country: Germany
-    phone: +49-421-218-63921
-    facsimile: +49-421-218-7000
-    email: cabo@tzi.org
+    ins: M. Thomson
+    name: Martin Thomson
+    organization: Mozilla
+    email: martin.thomson@gmail.com
 
 normative:
   RFC2119:
@@ -54,17 +43,7 @@ informative:
 
 --- abstract
 
-NAT (Network Address Translator) Traversal may require TURN
-(Traversal Using Relays around NAT) functionality in certain
-cases that are not unlikely to occur.  There is little
-incentive to deploy TURN servers, except by those who need
-them — who may not be in a position to deploy a new protocol
-on an Internet-connected node, in particular not one with
-deployment requirements as high as those of TURN.
-
-"STUN/TURN using PHP in Despair" is a highly deployable
-protocol for obtaining TURN-like functionality, while also
-providing the most important function of STUN.
+Unicorns are awesome.
 
 --- middle
 
