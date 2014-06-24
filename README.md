@@ -3,7 +3,7 @@
 This is the working area for the [IETF Unicorns Working
 Group](https://trac.tools.ietf.org/wg/unicorn/trac/wiki) draft of the Unicorn Protocol
 
-* [Editor's copy](https://unicorn-wg.github.io/unicorn-protocol/)
+* [Editor's copy](https://unicorn-wg.github.io/unicorn/)
 * [Working Group Draft] (https://tools.ietf.org/html/draft-unicorn-protocol)
 
 
