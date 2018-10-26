@@ -1,17 +1,18 @@
-# The Unicorn Protocol
+# Protected headers for e-mail
 
-This is the working area for the [IETF Unicorns Working
-Group](https://trac.tools.ietf.org/wg/unicorn/trac/wiki) draft of the Unicorn Protocol
+This is the working copy of a draft we hope to see adopted by the [IETF LAMPS Working
+Group](https://datatracker.ietf.org/wg/lamps/about/) about e-mail header protection.
 
-* [Editor's copy](https://unicorn-wg.github.io/unicorn/)
-* [Working Group Draft] (https://tools.ietf.org/html/draft-unicorn-protocol)
+* no online Editor's copy at the moment
+* [Internet Draft](https://tools.ietf.org/html/draft-melnikov-lamps-protected-headers)
 
 
 ## Contributing
 
-Before submitting feedback, please familiarize yourself with our current issues
-list and review the [working group home page](https://unicorn-wg.github.io/). If you're
-new to this, you may also want to read the [Tao of the
+Before submitting feedback, please familiarize yourself with our
+current issues list and review the [working group
+status](https://datatracker.ietf.org/wg/lamps/about/). If you're new
+to this, you may also want to read the [Tao of the
 IETF](https://www.ietf.org/tao.html).
 
 Be aware that all contributions to the specification fall under the "NOTE WELL"
@@ -19,7 +20,7 @@ terms outlined below.
 
 1. The best way to provide feedback (editorial or design) and ask questions is
 sending an e-mail to [our mailing
-list](https://www.ietf.org/mailman/listinfo/unicorn). This will ensure that
+list](https://www.ietf.org/mailman/listinfo/spasm). This will ensure that
 the entire Working Group sees your input in a timely fashion.
 
 2. If you have **editorial** suggestions (i.e., those that do not change the
