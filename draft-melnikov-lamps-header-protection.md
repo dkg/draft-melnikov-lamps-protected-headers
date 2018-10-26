@@ -116,7 +116,7 @@ to protect (sign) the following initial message:
 ~~~~~~~~~~
 Date: Mon, 25 Sep 2017 17:31:42 +0100 (GMT Daylight Time)
 From: "Alexey Melnikov" <alexey.melnikov@example.net>
-Message-ID: <e4a483cb-1dfb-481d-903b-298c92c21f5e@mattingly.example.net>
+Message-ID: <e4a483cb-1dfb-481d-903b-298c92c21f5e@msg.example.net>
 MIME-Version: 1.0
 MMHS-Primary-Precedence: 3
 Subject: Meeting at my place
@@ -136,7 +136,7 @@ header.)
 
 ~~~~~~~~~~
 O: Date: Mon, 25 Sep 2017 17:31:42 +0100 (GMT Daylight Time)
-O: Message-ID: <e4a483cb-1dfb-481d-903b-298c92c21f5e@mattingly.example.net>
+O: Message-ID: <e4a483cb-1dfb-481d-903b-298c92c21f5e@msg.example.net>
 O: Subject: Meeting at my place
 O: From: "Alexey Melnikov" <alexey.melnikov@example.net>
 O: MIME-Version: 1.0
@@ -179,7 +179,7 @@ prepended by "O: " are the outer header section. Lines prepended by
 
 ~~~~~~~~~~
 O: Date: Mon, 25 Sep 2017 17:31:42 +0100 (GMT Daylight Time)
-O: Message-ID: <e4a483cb-1dfb-481d-903b-298c92c21f5e@mattingly.example.net>
+O: Message-ID: <e4a483cb-1dfb-481d-903b-298c92c21f5e@msg.example.net>
 O: Subject: Meeting at my place
 O: From: "Alexey Melnikov" <alexey.melnikov@example.net>
 O: MIME-Version: 1.0
@@ -191,7 +191,7 @@ O:  boundary=.cbe16d2a-e1a3-4220-b821-38348fc97237
    --.cbe16d2a-e1a3-4220-b821-38348fc97237
 I: Date: Mon, 25 Sep 2017 17:31:42 +0100 (GMT Daylight Time)
 I: From: "Alexey Melnikov" <alexey.melnikov@example.net>
-I: Message-ID: <e4a483cb-1dfb-481d-903b-298c92c21f5e@mattingly.example.net>
+I: Message-ID: <e4a483cb-1dfb-481d-903b-298c92c21f5e@msg.example.net>
 I: MIME-Version: 1.0
 I: MMHS-Primary-Precedence: 3
 I: Subject: Meeting at my place
@@ -268,7 +268,7 @@ wrapper.
 
 ~~~~~~~~~~
 O: Date: Mon, 25 Sep 2017 17:31:42 +0100 (GMT Daylight Time)
-O: Message-ID: <e4a483cb-1dfb-481d-903b-298c92c21f5e@mattingly.example.net>
+O: Message-ID: <e4a483cb-1dfb-481d-903b-298c92c21f5e@msg.example.net>
 O: Subject: Meeting at my place
 O: From: "Alexey Melnikov" <alexey.melnikov@example.net>
 O: MIME-Version: 1.0
@@ -282,7 +282,7 @@ W: Content-Type: message/rfc822; forwarded=no
 W: 
 I: Date: Mon, 25 Sep 2017 17:31:42 +0100 (GMT Daylight Time)
 I: From: "Alexey Melnikov" <alexey.melnikov@example.net>
-I: Message-ID: <e4a483cb-1dfb-481d-903b-298c92c21f5e@mattingly.example.net>
+I: Message-ID: <e4a483cb-1dfb-481d-903b-298c92c21f5e@msg.example.net>
 I: MIME-Version: 1.0
 I: MMHS-Primary-Precedence: 3
 I: Subject: Meeting at my place
